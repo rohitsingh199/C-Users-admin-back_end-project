@@ -4,6 +4,8 @@ const app=express();
 const port=8000;
 
 
+//useexpress router
+app.use("/",require("./routes"));
 
 
 
