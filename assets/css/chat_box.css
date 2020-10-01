@@ -11,12 +11,12 @@
   #user-chat-box #chat-messages-list {
     list-style: none;
     padding: 10px;
-    height: 70%;
-    background-color: white;
+    height: 100%;
+    background-color: RED;
     overflow: auto; }
     #user-chat-box #chat-messages-list .other-message {
       text-align: left;
-      padding: 5px; }
+      padding: 1px; }
       #user-chat-box #chat-messages-list .other-message span {
         display: inline-block;
         padding: 15px;
